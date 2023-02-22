@@ -1,7 +1,7 @@
 {
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.donotVerifyTags": true,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": -1,
     "workbench.iconTheme": "material-icon-theme",
     "editor.formatOnSave": true,
     "prettier.requireConfig": false,

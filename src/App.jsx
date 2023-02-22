@@ -1,8 +1,8 @@
 import "./App.css";
-import { Intervalo } from "./components/Intervalo";
-import { Media } from "./components/Media";
-import { Soma } from "./components/Soma";
-import { Sorteio } from "./components/Sorteio";
+import Intervalo from "./components/Intervalo";
+import Media from "./components/Media";
+import Soma from "./components/Soma";
+import Sorteio from "./components/Sorteio";
 function App() {
   return (
     <div className="App">
